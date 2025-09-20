@@ -1,45 +1,45 @@
 {
-  "licenses": [
-    {
-      "activated": "2025-09-20T10:50:00.000Z",
-      "created": "2025-09-16T19:06:36.501464",
-      "current_uses": 0,
-      "expires": "2025-09-20T09:06:00.000Z",
-      "hwid": "2262761298700864004",
-      "key": "Dev01",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
+    "licenses": [
+        {
+            "activated": "2025-09-20T10:50:00.000Z",
+            "created": "2025-09-16T19:06:36.501464",
+            "current_uses": 0,
+            "expires": "2025-09-20T09:06:00.000Z",
+            "hwid": "2262761298700864004",
+            "key": "Dev01",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Admin"
+        },
+        {
+            "activated": "2025-09-20T03:56:14Z",
+            "created": "2025-09-19T20:55:17.946163",
+            "current_uses": 0,
+            "expires": "2025-09-22T20:55:00",
+            "hwid": "2262761298700864004",
+            "key": "DEV1",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "Admin"
+        },
+        {
+            "activated": "2025-09-20T09:56:52Z",
+            "created": "2025-09-19T21:05:33.494579",
+            "current_uses": 0,
+            "expires": "2025-09-21T21:05:00",
+            "hwid": "",
+            "key": "DEV11",
+            "license_type": "3day",
+            "max_uses": 1,
+            "status": "active",
+            "username": "XS"
+        }
+    ],
+    "metadata": {
+        "last_updated": "2025-09-20T10:08:40.731901Z",
+        "version": "1.0"
     },
-    {
-      "activated": "2025-09-20T03:56:14Z",
-      "created": "2025-09-19T20:55:17.946163",
-      "current_uses": 0,
-      "expires": "2025-09-22T20:55:00",
-      "hwid": "2262761298700864004",
-      "key": "DEV1",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
-    },
-    {
-      "activated": "2025-09-20T09:56:52Z",
-      "created": "2025-09-19T21:05:33.494579",
-      "current_uses": 0,
-      "expires": "2025-09-21T21:05:00",
-      "hwid": "2262761298700864004",
-      "key": "DEV11",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "XS"
-    }
-  ],
-  "metadata": {
-    "last_updated": "2025-09-20T09:56:52Z",
-    "version": "1.0"
-  },
-  "signature": "placeholder-signature-here"
+    "signature": "placeholder-signature-here"
 }
