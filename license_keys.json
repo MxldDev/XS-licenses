@@ -11,6 +11,18 @@
       "max_uses": 1,
       "status": "active",
       "username": "Admin"
+    },
+    {
+      "activated": "2025-09-19T20:55:00",
+      "created": "2025-09-19T20:55:17.946163",
+      "current_uses": 0,
+      "expires": "2025-09-22T20:55:00",
+      "hwid": "",
+      "key": "DEV1",
+      "license_type": "3day",
+      "max_uses": 1,
+      "status": "active",
+      "username": "Admin"
     }
   ],
   "metadata": {
